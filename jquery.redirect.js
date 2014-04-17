@@ -1,3 +1,16 @@
+/*
+ *  jQuery Redirect Plugin
+ *  Version: 1.0.0 (17-Apr-2014)
+ *  @requires jQuery v1.9 or later
+ * 
+ *  Updates available from
+ *  https://github.com/TheSk8rJesus/Redirect
+ * 
+ *  Copyright (c) TheSk8rJesus
+ *  Licensed under the MIT  license:
+ *  	http://www.opensource.org/licenses/mit-license.php
+ */
+
 ;(function($)	{
 	
 	// creating redirect function
