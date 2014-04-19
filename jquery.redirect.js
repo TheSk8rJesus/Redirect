@@ -1,6 +1,6 @@
 /*
  *  jQuery Redirect Plugin
- *  Version: 1.1.0 (17-Apr-2014)
+ *  Version: 1.1.1 (17-Apr-2014)
  *  @requires jQuery v1.9 or later
  * 
  *  Updates available from
@@ -17,7 +17,7 @@
 	$.fn.redirect = function(url)	{
 		
 		// checking if a url has been supplied
-		if( url === '' )
+		if( typeof url == 'undefined' )
 		{
 			url = '#';
 		}
