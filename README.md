@@ -19,9 +19,7 @@ https://github.com/TheSk8rJesus/Redirect/archive/master.zip
 Copy the jquery.redirect.js file to your webservers script folder and then reference the file after the jQuery reference.
 
 ## How to use
-The function can be used with any click function as shown
+The function can be used with any element as shown
 ```
-$('#btn').click( function()	{
-	$(this).redirect( 'http://github.com' );
-});
+$('#btn').redirect( 'http://github.com' );
 ```
