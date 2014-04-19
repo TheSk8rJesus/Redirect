@@ -1,0 +1,6 @@
+v1.0.0
+    * First build
+v1.1.0
+    * Removed the need for the click function
+v1.1.1
+    * bug fix for if statement
